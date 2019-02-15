@@ -1,0 +1,37 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Beagle
+Author: Poly by Google
+URL: https://poly.google.com/view/0BnDT3T1wTE
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Bird scanned with Qlone
+Author: Ronen Horovitz
+URL: https://poly.google.com/view/elqme9OIUdn
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Cat
+Author: Poly by Google
+URL: https://poly.google.com/view/dYKICaHpK0c
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Goldfish
+Author: Poly by Google
+URL: https://poly.google.com/view/3GPUntjwqCa
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Parrot
+Author: Poly by Google
+URL: https://poly.google.com/view/dfNjMLtO0pd
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Rabbit
+Author: Poly by Google
+URL: https://poly.google.com/view/eIA8cNdEn-4
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
